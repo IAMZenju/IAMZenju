@@ -1,7 +1,6 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTQbrspcfb8GKIy-yxQKJ1ZqSma8-qppEZHcY7PSCtPRSEru83fWTjWQgQWHwBg6dvUT0FRlAtntpjrqh6yUMnWKghAvUp4IFkv3GeTLCNmll-u3crSCdTXkXgP2BsknZMT5SsGfF65kExTtwNfSi5mWPl_3LhnLopt8q41Ylp4Y65L6GMmYJRP5xCQw/s16000/android-developer-challenge-2000_600px.gif)](https://iamzenju.com)
+<h1 align="center">🅸🅰🅼🆉🅴🅽🅹🆄</h1>
 <h1 align="center">Hi, I'm Adam</h1>
 <h3 align="center">A Passionate Full-Stack Developer From The Philippines</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzenju&label=Profile%20views&color=0e75b6&style=flat" alt="iamzenju" /> </p>
 
@@ -9,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/zenjusoftworks" target="blank"><img src="https://img.shields.io/twitter/follow/zenjusoftworks?logo=twitter&style=for-the-badge" alt="zenjusoftworks" /></a> </p>
 
-- 🔭 I’m currently working on **zswCMS**
+- 🔭 I’m currently working on [Project SHIN and zswCMS](https://zenjusoftworks.com)
 
 - 🌱 I’m currently learning **Unity Game Engine**
 
-- 👨‍💻 All of my projects are available at [IAMZenju.com/Projects](IAMZenju.com/Projects)
+- 👨‍💻 All of my projects are available at [https://iamzenju.com/Projects](https://iamzenju.com/Projects)
 
-- 📝 I regularly write articles on [IAMZenju.COM/Blog](IAMZenju.COM/Blog)
+- 📝 I regularly write articles on [https://iamzenju.com/Blog](https://iamzenju.com/Blog)
 
 - 📫 How to reach me **support@zenjusoftworks.com**
 
-- 📄 Know about my experiences [IAMZenju.COM/Experience](IAMZenju.COM/Experience)
+- 📄 Know about my experiences [https://iamzenju.com/Experience](https://iamzenju.com/Experience)
 
 - ⚡ Fun fact **I'm Handsome AF**
 
