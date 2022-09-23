@@ -1,7 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTQbrspcfb8GKIy-yxQKJ1ZqSma8-qppEZHcY7PSCtPRSEru83fWTjWQgQWHwBg6dvUT0FRlAtntpjrqh6yUMnWKghAvUp4IFkv3GeTLCNmll-u3crSCdTXkXgP2BsknZMT5SsGfF65kExTtwNfSi5mWPl_3LhnLopt8q41Ylp4Y65L6GMmYJRP5xCQw/s16000/android-developer-challenge-2000_600px.gif)](https://iamzenju.com)
 <h1 align="center">Hi, I'm Adam</h1>
 <h3 align="center">A Passionate Full-Stack Developer From The Philippines</h3>
-<img align="right" alt="Coding" width="400" height="400" src="https://avatars.githubusercontent.com/u/99297839?v=4">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzenju&label=Profile%20views&color=0e75b6&style=flat" alt="iamzenju" /> </p>
 
