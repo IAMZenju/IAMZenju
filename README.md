@@ -6,25 +6,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamzenju" alt="iamzenju" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zenjusoftworks" target="blank"><img src="https://img.shields.io/twitter/follow/zenjusoftworks?logo=twitter&style=for-the-badge" alt="zenjusoftworks" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IAMZenju_TWT" target="blank"><img src="https://img.shields.io/twitter/follow/IAMZenju_TWT?logo=twitter&style=for-the-badge" alt="IAMZenju_TWT" /></a> </p>
 
-- 🔭 I’m currently working on [Project SHIN and zswCMS](https://zenjusoftworks.com)
+- 🔭 I’m currently working on [SHIN and ZenMS-C](https://iamzenju.com)
 
 - 🌱 I’m currently learning **Unity Game Engine**
 
-- 👨‍💻 All of my projects are available at [https://iamzenju.com/Projects](https://iamzenju.com/Projects)
+- 👨‍💻 All of my projects are available at [https://iamzenju.com/Projects](https://iamzenju.com/projects)
 
-- 📝 I regularly write articles on [https://iamzenju.com/Blog](https://iamzenju.com/Blog)
+- 📝 I regularly write articles on [https://iamzenju.com/Blog](https://iamzenju.com/blog)
 
-- 📫 How to reach me **support@zenjusoftworks.com**
+- 📫 How to reach me **info@iamzenju.com**
 
-- 📄 Know about my experiences [https://iamzenju.com/Experience](https://iamzenju.com/Experience)
+- 📄 Know about my experiences [https://iamzenju.com/Experience](https://iamzenju.com/experience)
 
 - ⚡ Fun fact **I'm Handsome AF**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zenjusoftworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zenjusoftworks" height="30" width="40" /></a>
+<a href="https://twitter.com/IAMZenju_TWT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IAMZenju_TWT" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamzenju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamzenju" height="30" width="40" /></a>
 <a href="https://fb.com/iamzenjugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamzenjugg" height="30" width="40" /></a>
 <a href="https://instagram.com/iamzenju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamzenju" height="30" width="40" /></a>
