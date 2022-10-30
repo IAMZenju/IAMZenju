@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Unity Game Engine**
 
-- 👨‍💻 All of my projects are available at [https://iamzenju.com/Projects](https://iamzenju.com/projects)
+- 👨‍💻 All of my projects are available at [https://iamzenju.com/projects](https://iamzenju.com/projects)
 
-- 📝 I regularly write articles on [https://iamzenju.com/Blog](https://iamzenju.com/blog)
+- 📝 I regularly write articles on [https://iamzenju.com/blog](https://iamzenju.com/blog)
 
 - 📫 How to reach me **info@iamzenju.com**
 
